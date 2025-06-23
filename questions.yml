@@ -1,0 +1,26 @@
+# key_1: Value 1
+# key_2: Value 2
+# key_3: Value 3
+- question: "What is the capital of France?"
+  answer: 
+  - "Paris"
+  - "Berlin"
+  - "Moscow"
+  - "Lisbon"
+  correct: "Paris"
+
+- question: "How many legs have spider?"
+  answer: 
+  - "8"
+  - "6"
+  - "4"
+  - "12"
+  correct: "6"
+
+- question: "What means 'Pozor' in Serbian?"
+  answer: 
+  - "Attention"
+  - "Proud"
+  - "Hello"
+  - "Goodbye"
+  correct: "Proud"

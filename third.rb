@@ -43,7 +43,16 @@ numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 numbers_squared = []
 
 numbers.each do |number|
-  numbers << number * number
+  numbers_squared << number * number
 end
 
 puts numbers_squared
+
+numbers_squared_2 = []
+
+10.times do |i|
+  numbers_squared_2 << (i + 1) * (i + 1)
+end
+
+puts numbers_squared_2
+
